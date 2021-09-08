@@ -1,0 +1,4 @@
+Name: Lebosk
+ICO: 000000   	
+DIC: SK000000008000
+Adress: lebortor st.145,0000 BA
