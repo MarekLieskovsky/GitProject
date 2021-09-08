@@ -1,4 +1,4 @@
 Name: Babosk 
-ICO: 45645645	
+ICO: 4564564
 DIC: SK123654987
 Adress: nortor st.145,4541 BA
